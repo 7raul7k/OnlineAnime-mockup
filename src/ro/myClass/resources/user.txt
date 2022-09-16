@@ -1,0 +1,12 @@
+customer,100,Popescu,Ioan,popescuioan@gmail.com,popescuioan@gmail.com2022,Bucuresti,true,10,Attack on Titan,Yofukashi no Uta
+customer,101,Ionescu,Andrei,ionescuandrei@gmail.com,ionescuandrei@gmail.com2022,Satu Mare,true,20,Death Note,Overlord IV
+customer,102,Ursulescu,George,georgeursulescu@gmail.com,georgeursulescu@gmail.com2022,Brasov,true,15,Naruto,Kuro no Shoukanshi
+customer,103,Filip,Cristian,filipcristian@gmail.com,filipcristian@gmail.com2022,Iasi,true,4,Attack on Titan,Shadows House 2nd Season
+customer,104,Anton,Radu,raduanton@gmail.com,raduanton@gmail.com2022,Oradea,true,8,Fairy tail,RWBY: Hyousetsu Teikoku
+customer,105,Ilie,Denis,iliedenis@gmail.com,iliedenis@gmail.com2022,Arad,true,30,Sword Art Online,Orient: Awajishima Gekitou-hen
+customer,106,Ciorba,Adrian,ciorbaadrian@gmail.com,ciorbaadrian@gmail.com2022,Timisoara,true,17,Attack on Titan,Bucchigire!
+customer,107,Miculescu,Ionut,ionutmiculescu@gmail.com,ionutmiculescu@gmail.com2022,Craiova,true,2,Tokyo Ghoul,Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches
+customer,108,Cordea,Denis,deniscordea@gmail.com,deniscordea@gmail.com2022,Tg Jiu,true,12,Naruto,Tate no Yuusha no Nariagari Season 2
+administrator,109,Popa,Alex,popaalex@gmail.com,popaalex@gmail.com2022,Alba-Iulia,true,AnimeKage,translator
+administrator,110,Ciobanu,Vasile,vasileciobanu@gmail.com,vasileciobanu@gmail.com2022,Cluj-Napoca,true,AnimeUnited,video-editor
+customer,231,Pavel,Alexandru,pavelalexandru@gmail.com,pavelalexandru21@gmail.com20222,Iasi,true,100,Attack on titan,One piece

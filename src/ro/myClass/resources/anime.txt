@@ -1,0 +1,24 @@
+1,Attack on Titan,86,https://myanimelist.net/anime/16498/Shingeki_no_Kyojin,8.53,7 april 2013
+2,Sword Art Online,73,https://myanimelist.net/anime/11757/Sword_Art_Online,7.2,8 july 2012
+3,One Punch Man,24,https://myanimelist.net/anime/30276/One_Punch_Man,8.51,5 october 2015
+4,Akame ga kill,24,https://myanimelist.net/anime/22199/Akame_ga_Kill,7.47,7 july 2014
+5,Tokyo Ghoul,48,https://myanimelist.net/anime/22319/Tokyo_Ghoul,7.79,4 july 2014
+6,Shaman King,116,https://myanimelist.net/anime/154/Shaman_King,7.76,4 july 2001
+7,Naruto,220,https://myanimelist.net/anime/1735/Naruto__Shippuuden,8.24,15 february 2007
+8,One piece,1026,https://myanimelist.net/anime/21/One_Piece,8.66,20 october 1999
+9,Hunter x Hunter,148,https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011,9.04,2 october 2011
+10,Fullmetal Alchemist: Brotherhood,64,https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood,9.13,5 april 2009
+11,Haikyuu!!,60,https://myanimelist.net/anime/20583/Haikyuu,8.45,6 april 2014
+12,Death note,37,https://myanimelist.net/anime/1535/Death_Note,8.62,4 oct 2006
+13,Overlord,52,https://myanimelist.net/anime/29803/Overlord,7.92,7 july 2015
+14,Pokemon,1209,https://myanimelist.net/anime/527/Pokemon,7.36,1 april 1997
+15,Dragon Quest,93,https://myanimelist.net/anime/40906/Dragon_Quest__Dai_no_Daibouken_2020,7.58,27 may 1986
+16,Dragon Ball Z,291,https://myanimelist.net/anime/813/Dragon_Ball_Z,8.15,26 april 1989
+17,Boku no Hero Academia,113,https://myanimelist.net/anime/31964/Boku_no_Hero_Academia,7.92,3 april 2016
+18,Steins:Gate,26,https://myanimelist.net/anime/9253/Steins_Gate,9.08,6 april 2011
+19,No Game No Life,12,https://myanimelist.net/anime/19815/No_Game_No_Life,8.1,9 april 2014
+20,Toradora!,25,https://myanimelist.net/anime/4224/Toradora,8.1,2 october 2008
+21,Re:Zero,25,https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu,8.24,4 april 2016
+22,Bleach,366,https://myanimelist.net/anime/269/Bleach,7.87,5 october 2004
+23,Fairy Tail,328,https://myanimelist.net/anime/6702/Fairy_Tail,7.58,12 oct 2009
+24,SAO 2,24,www.myanimelist.com/sao-2,9.0,10 july 2018
